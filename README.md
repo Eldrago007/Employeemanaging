@@ -1,1 +1,2 @@
-Spring application to manage employee info. Can edit or add new employees get their information.
+Developed a robust Spring Boot application for employee management, seamlessly integrating Angular for the frontend and Java for the backend.
+Utilized MySQL database to efficiently store and manage employee information, crafting intuitive user interfaces that enabled smooth interactions. Implemented essential CRUD operations: adding employees (POST), retrieving details (GET), deleting records (DELETE), and updating information (PUT).
